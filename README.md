@@ -1,4 +1,6 @@
-blah
+My name is Edward Chumbley, and I'm a junior in Aerospace Engineering at Iowa State University. I'm interested in learning all that I can and getting an internship to help me narrow my interests within the field. I'm also hoping to find time to start working on getting my private pilot's license. 
+
+
 
 <!--
 **echumbley/echumbley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
